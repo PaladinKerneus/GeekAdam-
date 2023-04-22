@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px
+    ;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Logo {
+    color: white;
+    font-size: large;
+    padding-left: 10px;
+    display: inline-block;
+ }
+
+ a {
+    text-decoration: black;
+    color: white;
+    padding-left: 10px;
+    padding-right:10px ;
+}
+.header {
+    background-color: black;
+    align-items: center;
+    width: 30px;
+    width:100%;
+    position: fixed;
+    height: auto;
+}
+.navbar{
+    display: inline;
+}
+.container2{
+
+    padding-top: 10%;
+    align-items: center;
+    width: 100%;
+
+    
+}
+.veriler{
+    color: black;
+}
+
+table, th, td {
+    border: 1px solid;
+    margin-left: 20%;
+  }
+ 
